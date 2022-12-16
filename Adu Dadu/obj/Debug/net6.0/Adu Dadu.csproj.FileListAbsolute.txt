@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\Adu Dadu\obj\Debug\net6.0\Adu Dadu.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Adu Dadu\obj\Debug\net6.0\Adu Dadu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Adu Dadu\obj\Debug\net6.0\Adu Dadu.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Adu Dadu\obj\Debug\net6.0\Adu Dadu.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Adu Dadu\obj\Debug\net6.0\Adu Dadu.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Adu Dadu\bin\Debug\net6.0\Adu Dadu.exe
+C:\Users\ASUS\Desktop\Adu Dadu\bin\Debug\net6.0\Adu Dadu.deps.json
+C:\Users\ASUS\Desktop\Adu Dadu\bin\Debug\net6.0\Adu Dadu.runtimeconfig.json
+C:\Users\ASUS\Desktop\Adu Dadu\bin\Debug\net6.0\Adu Dadu.dll
+C:\Users\ASUS\Desktop\Adu Dadu\bin\Debug\net6.0\Adu Dadu.pdb
+C:\Users\ASUS\Desktop\Adu Dadu\obj\Debug\net6.0\Adu Dadu.dll
+C:\Users\ASUS\Desktop\Adu Dadu\obj\Debug\net6.0\refint\Adu Dadu.dll
+C:\Users\ASUS\Desktop\Adu Dadu\obj\Debug\net6.0\Adu Dadu.pdb
+C:\Users\ASUS\Desktop\Adu Dadu\obj\Debug\net6.0\Adu Dadu.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Adu Dadu\obj\Debug\net6.0\ref\Adu Dadu.dll

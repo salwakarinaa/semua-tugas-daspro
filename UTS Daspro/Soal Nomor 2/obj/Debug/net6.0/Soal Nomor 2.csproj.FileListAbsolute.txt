@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\UTS Daspro\Soal Nomor 2\bin\Debug\net6.0\Soal Nomor 2.exe
+C:\Users\ASUS\Desktop\UTS Daspro\Soal Nomor 2\bin\Debug\net6.0\Soal Nomor 2.deps.json
+C:\Users\ASUS\Desktop\UTS Daspro\Soal Nomor 2\bin\Debug\net6.0\Soal Nomor 2.runtimeconfig.json
+C:\Users\ASUS\Desktop\UTS Daspro\Soal Nomor 2\bin\Debug\net6.0\Soal Nomor 2.dll
+C:\Users\ASUS\Desktop\UTS Daspro\Soal Nomor 2\bin\Debug\net6.0\Soal Nomor 2.pdb
+C:\Users\ASUS\Desktop\UTS Daspro\Soal Nomor 2\obj\Debug\net6.0\Soal Nomor 2.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\UTS Daspro\Soal Nomor 2\obj\Debug\net6.0\Soal Nomor 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\UTS Daspro\Soal Nomor 2\obj\Debug\net6.0\Soal Nomor 2.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\UTS Daspro\Soal Nomor 2\obj\Debug\net6.0\Soal Nomor 2.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\UTS Daspro\Soal Nomor 2\obj\Debug\net6.0\Soal Nomor 2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\UTS Daspro\Soal Nomor 2\obj\Debug\net6.0\Soal Nomor 2.dll
+C:\Users\ASUS\Desktop\UTS Daspro\Soal Nomor 2\obj\Debug\net6.0\refint\Soal Nomor 2.dll
+C:\Users\ASUS\Desktop\UTS Daspro\Soal Nomor 2\obj\Debug\net6.0\Soal Nomor 2.pdb
+C:\Users\ASUS\Desktop\UTS Daspro\Soal Nomor 2\obj\Debug\net6.0\Soal Nomor 2.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\UTS Daspro\Soal Nomor 2\obj\Debug\net6.0\ref\Soal Nomor 2.dll

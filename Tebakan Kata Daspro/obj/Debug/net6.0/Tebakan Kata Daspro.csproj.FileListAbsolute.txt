@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\Tebakan Kata Daspro\obj\Debug\net6.0\Tebakan Kata Daspro.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Tebakan Kata Daspro\obj\Debug\net6.0\Tebakan Kata Daspro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Tebakan Kata Daspro\obj\Debug\net6.0\Tebakan Kata Daspro.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Tebakan Kata Daspro\obj\Debug\net6.0\Tebakan Kata Daspro.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Tebakan Kata Daspro\obj\Debug\net6.0\Tebakan Kata Daspro.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Tebakan Kata Daspro\bin\Debug\net6.0\Tebakan Kata Daspro.exe
+C:\Users\ASUS\Desktop\Tebakan Kata Daspro\bin\Debug\net6.0\Tebakan Kata Daspro.deps.json
+C:\Users\ASUS\Desktop\Tebakan Kata Daspro\bin\Debug\net6.0\Tebakan Kata Daspro.runtimeconfig.json
+C:\Users\ASUS\Desktop\Tebakan Kata Daspro\bin\Debug\net6.0\Tebakan Kata Daspro.dll
+C:\Users\ASUS\Desktop\Tebakan Kata Daspro\bin\Debug\net6.0\Tebakan Kata Daspro.pdb
+C:\Users\ASUS\Desktop\Tebakan Kata Daspro\obj\Debug\net6.0\Tebakan Kata Daspro.dll
+C:\Users\ASUS\Desktop\Tebakan Kata Daspro\obj\Debug\net6.0\refint\Tebakan Kata Daspro.dll
+C:\Users\ASUS\Desktop\Tebakan Kata Daspro\obj\Debug\net6.0\Tebakan Kata Daspro.pdb
+C:\Users\ASUS\Desktop\Tebakan Kata Daspro\obj\Debug\net6.0\Tebakan Kata Daspro.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Tebakan Kata Daspro\obj\Debug\net6.0\ref\Tebakan Kata Daspro.dll
